@@ -1,0 +1,32 @@
+[
+  {
+    "id": "task1",
+    "name": "Prepare project report",
+    "status": "completed"
+  },
+  {
+    "id": "task2",
+    "name": "Team meeting with manager",
+    "status": "ongoing"
+  },
+  {
+    "id": "task3",
+    "name": "Create project roadmap",
+    "status": "notStarted"
+  },
+  {
+    "id": "task4",
+    "name": "Design wireframes for new feature",
+    "status": "ongoing"
+  },
+  {
+    "id": "task5",
+    "name": "Submit annual review documents",
+    "status": "completed"
+  },
+  {
+    "id": "task6",
+    "name": "Plan team outing",
+    "status": "notStarted"
+  }
+]
